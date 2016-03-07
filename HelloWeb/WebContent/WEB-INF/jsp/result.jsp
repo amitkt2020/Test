@@ -23,10 +23,7 @@
         <td>Errors</td>
         <td>${errors}</td>
     </tr>
-	    <tr>
-        <td>Errors</td>
-        <td>${errors}</td>
-    </tr>
+
 </table>  
 </body>
 </html>
